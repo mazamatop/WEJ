@@ -57,4 +57,4 @@ WEJ/
 ## ▶️ How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mazamatop/WEJ.git
+   git clone [https://github.com/mazamatop/WEJ.git] or copy the following link in your browser (https://mazamatop.github.io/WEJ/)
