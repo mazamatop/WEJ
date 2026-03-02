@@ -1,7 +1,7 @@
-# 🎬 WEJ – AI-Powered Streaming Website
+# 🎬 StreamFlix– AI-Powered Streaming Website
 
 ## 📌 Project Overview
-**WEJ** is a web-based streaming platform designed to enhance the user experience by integrating **AI-powered functionalities**.  
+**StreamFlix* is a web-based streaming platform designed to enhance the user experience by integrating **AI-powered functionalities**.  
 The platform allows users to interact with the application **while content is playing**, making streaming more engaging, intelligent, and user-friendly.
 
 This project focuses on combining **web technologies** with **artificial intelligence** to improve content interaction, navigation, and personalization.
